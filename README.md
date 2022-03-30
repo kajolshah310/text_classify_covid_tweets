@@ -6,6 +6,7 @@ A set of tweets and texts related to COVID-19 were collected from Twitter and Ch
 1) Lockdown
 2) Masking and Distancing
 3) Vaccination\
+
 A single tweet can have more than two labels (eg. a tweet can be labelled as lockdown as well as masking and distancing) 
 
 
