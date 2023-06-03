@@ -25,7 +25,8 @@ The project involves the following steps:
 ```
 git clone https://github.com/kajolshah310/text_classify_covid_tweets.git
 ```
-2) Open the Part2.ipynb file in Jupyter Notebook or any other compatible IDE.
+2) Open the Part1.ipynb file in Jupyter Notebook or any other compatible IDE. The input files are present in the folder input_files and use the file label_sep_script.py to separate the labels and create separate files for it. These files are then used as input for Part1.ipynb.
+After that, open the Part2.ipynb in Jupyter Notebook and use the files from Part1.ipynb output as input for Part2.ipynb.(you can also find the files in the folder intermediate_files)
 
 3) Install the required packages and dependencies mentioned in the notebook, if necessary.
 
